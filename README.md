@@ -19,11 +19,9 @@
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-<h2>📊 GitHub Stats:</h2>
+## 📊 GitHub Stats:
 
-<img src="https://github-readme-stats.vercel.app/api?username=pushkarsengar&show_icons=true&theme=radical" alt="Pushkar's Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pushkarsengar&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pushkarsengar&theme=dracula)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
