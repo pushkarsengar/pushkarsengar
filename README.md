@@ -4,7 +4,7 @@
 
 📫 **Email Me:** [23pushkar.7470@gmail.com] For Collaboration, Projects, or a Quick Chat ☕
 # 💫 About Me:
-​🔭 I’m currently working on: Building data visualization dashboards and exploring Exploratory Data Analysis (EDA) projects.<br>​👯 I’m looking to collaborate on: Open-source Data Science projects or Python-based automation tools.<br>​🤝 I’m looking for help with: Advanced SQL optimization and complex Power BI DAX queries.<br>​🌱 I’m currently learning: Machine Learning algorithms and deepening my knowledge in Data Analytics using Python libraries (Pandas, NumPy).<br>​💬 Ask me about: Data Analytics, Python programming, or my journey as a CSE student.<br>​⚡ Fun fact: I can spend hours cleaning a messy dataset just to see one perfect bar chart!
+​🔭 I’m currently working on: Building data visualization dashboards and exploring Exploratory Data Analysis (EDA) projects.<br>​👯 I’m looking to collaborate on: Open-source Data Science projects or Python-based automation tools.<br>​🤝 I’m looking for help with: Advanced SQL optimization and complex Power BI DAX queries.<br>​🌱 I’m currently learning: Machine Learning algorithms and deepening my knowledge in Data Analytics using Python libraries (Pandas, NumPy,Matplotlib,Seabron).<br>​💬 Ask me about: Data Analytics, Python programming, or my journey as a CSE student.<br>​⚡ Fun fact: I can spend hours cleaning a messy dataset just to see one perfect bar chart!
 
 
 ## 🔗 I am a Data Analyst 📊
