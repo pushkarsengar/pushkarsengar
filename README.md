@@ -36,7 +36,10 @@ Stay connected with me:
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=pushkarsengar&theme=dracula&cache_seconds=1800)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pushkarsengar&theme=algolia&no-frame=true&row=1&column=6"/>
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
