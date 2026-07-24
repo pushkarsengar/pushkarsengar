@@ -44,7 +44,5 @@ Stay connected with me:
   <img src="https://streak-stats.demolab.com?user=pushkarsengar&theme=github-dark&hide_border=true" height="170"/>
 </p>
 
-## 💻 Most Used Languages:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pushkarsengar&layout=compact&theme=github_dark&hide_border=true&exclude_repo=Math-for-Machine-Learning)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
