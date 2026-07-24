@@ -31,10 +31,12 @@ Stay connected with me:
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
+## 📈 GitHub Stats
 
-## 📊 GitHub Stats:
-
-![GitHub Streak](https://streak-stats.demolab.com?user=pushkarsengar&theme=dracula&cache_seconds=1800)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pushkarsengar&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=pushkarsengar&theme=github-dark&hide_border=true" height="170"/>
+</p>
 
 ## 🏆 GitHub Trophies
 
