@@ -31,6 +31,10 @@ Stay connected with me:
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
+## 📊 GitHub Activity Graph
+
+[![Pushkar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pushkarsengar&theme=github-dark)](https://github.com/pushkarsengar)
+
 ## 📈 GitHub Stats
 
 <p align="center">
