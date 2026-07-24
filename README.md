@@ -34,7 +34,7 @@ Stay connected with me:
 
 ## 📊 GitHub Stats:
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pushkarsengar&theme=dracula)
+![GitHub Streak](https://streak-stats.demolab.com?user=pushkarsengar&theme=dracula&cache_seconds=1800)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
