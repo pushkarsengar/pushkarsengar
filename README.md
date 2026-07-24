@@ -31,21 +31,18 @@ Stay connected with me:
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-## 📊 GitHub Activity Graph
+## 📊 GitHub Activity Graph:
 
 [![Pushkar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pushkarsengar&theme=github-dark)](https://github.com/pushkarsengar)
 
-## 📈 GitHub Stats
+## 📈 GitHub Stats:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pushkarsengar&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
   <img src="https://streak-stats.demolab.com?user=pushkarsengar&theme=github-dark&hide_border=true" height="170"/>
 </p>
 
-## 🏆 GitHub Trophies
+## 💻 Most Used Languages:
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pushkarsengar&theme=algolia&no-frame=true&row=1&column=6"/>
-</p>
-
+https://github-readme-stats.vercel.app/api/top-langs/?username=pushkarsengar&layout=compact&theme=github_dark&hide_border=true&langs_count=8&card_width=420
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
