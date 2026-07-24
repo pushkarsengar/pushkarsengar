@@ -40,14 +40,16 @@ Stay connected with me:
 ## 📈 GitHub Stats:
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=pushkarsengar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://streak-stats.demolab.com?user=pushkarsengar&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=pushkarsengar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats" />
+  <img height="165" src="https://streak-stats.demolab.com?user=pushkarsengar&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
+
+<br>
 
 ## 💻 Most Used Languages:
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pushkarsengar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pushkarsengar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=320" alt="Top Languages" />
 </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
