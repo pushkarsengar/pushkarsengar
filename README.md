@@ -31,6 +31,8 @@ Stay connected with me:
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
+---
+
 ## 📊 GitHub Activity Graph:
 
 [![Pushkar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pushkarsengar&theme=github-dark)](https://github.com/pushkarsengar)
@@ -44,5 +46,7 @@ Stay connected with me:
 
 ## 💻 Most Used Languages:
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=pushkarsengar&layout=compact&theme=github_dark&hide_border=true&langs_count=8&card_width=420
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pushkarsengar&layout=compact&theme=github_dark&hide_border=true" />
+</p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
