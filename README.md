@@ -46,5 +46,5 @@ Stay connected with me:
 
 ## 💻 Most Used Languages:
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pushkarsengar&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pushkarsengar&layout=compact&theme=github_dark&hide_border=true&exclude_repo=Math-for-Machine-Learning)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
