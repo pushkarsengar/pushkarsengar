@@ -1,6 +1,6 @@
 # Hi 👋, I'm Pushkar Singh Sengar
 
-### A Passionate Data Analyst || B.Tech CSE Student || Tech Enthusiast from India
+### Data Analytics | Machine Learning | Python | SQL | Power BI | Open to Internship
 
 📫 **Email Me:** [23pushkar.7470@gmail.com] For Collaboration, Projects, or a Quick Chat ☕
 # 💫 About Me:
