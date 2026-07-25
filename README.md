@@ -40,7 +40,7 @@ Stay connected with me:
 ## 📈 GitHub Stats:
 
 <p align="center">
-  <img height="165" src="https://streak-stats.demolab.com?user=pushkarsengar&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://streak-stats.demolab.com?user=pushkarsengar&theme=tokyonight&hide_border=true"&cache_seconds=1800 />
 </p>
 
 
